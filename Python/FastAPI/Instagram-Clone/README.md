@@ -7,7 +7,7 @@ This project was developed as a more complex full-stack application using FastAP
 - Database: SQL database for user, post, and comment management.
 - Frontend: ReactJS for building the user interface.
 
-##Features:
+## Features:
 - User Authentication: Users can sign up, log in, and log out securely.
 - Post Upload: Authenticated users can upload posts, which consist of a photo and caption.
 - Post Deletion: Only the user who uploaded a post can delete it.
