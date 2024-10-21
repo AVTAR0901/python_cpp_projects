@@ -1,0 +1,5 @@
+fastapi
+redis-om==0.0.26
+uvicorn
+pydantic
+requests
