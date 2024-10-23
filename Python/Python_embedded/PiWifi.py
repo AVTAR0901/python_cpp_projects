@@ -1,3 +1,11 @@
+"""
+Description: This script allows to connect, pair, get status, get list of availbe wifi, etc
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
 import os
 import subprocess
 import time

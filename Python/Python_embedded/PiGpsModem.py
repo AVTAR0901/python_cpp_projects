@@ -1,3 +1,12 @@
+"""
+Description: This script is used to get GPS coordinates through AT commands
+             from sim868 module
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
 import RPi.GPIO as GPIO
 import time
 import serial

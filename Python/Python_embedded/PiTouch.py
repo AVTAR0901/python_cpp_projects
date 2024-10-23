@@ -1,8 +1,16 @@
+"""
+Description: This script is used to do touch configuration using I2C interface, should work with most of touch panels tried with FT5336U and display driver: ST7789V 
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
 import Screen
 import threading
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 import adafruit_focaltouch
-import adafruit_rgb_display.st7789 as st7789  # pylint: disable=unused-import
+import adafruit_rgb_display.st7789 as st7789
 import time
 
 class PiTouch:

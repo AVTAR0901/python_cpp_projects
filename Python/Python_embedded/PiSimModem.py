@@ -1,3 +1,12 @@
+"""
+Description: This Script is example code to get status, signal strength,
+             uptime, GPS coordinates from sim868 modules
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
 import RPi.GPIO as GPIO
 import os
 import time

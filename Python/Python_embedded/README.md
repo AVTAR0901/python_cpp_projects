@@ -8,4 +8,6 @@
 ## Additional Peripheral Configurations
 - I've configured additional peripherals like touch screens, cameras, iris scanners, and fingerprint readers, but I didn't include their code here since support for these is widely available on the internet.
 
+NOTE: Please download required libraries and use the codes.
+
 - Feel free to explore the code snippets and use them to enhance your hardware projects!

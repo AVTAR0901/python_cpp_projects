@@ -1,3 +1,15 @@
+"""
+Description: This is example code to connect bluetooth keyboard with linux device on
+             TFT screen which is connected through SPI interface, sinsce its connected
+             via SPI interface direct bluetooth key board output wont be coming on
+             screen we neeed to use this script.
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
+
 import time
 from evdev import InputDevice, categorize, ecodes
 import threading

@@ -1,3 +1,12 @@
+"""
+Description: This script using bluetooth allows user to connect, disconnect, pair, unpair, trust, get list of available devices
+
+Author: Avtar Chodankar
+Github: AVTAR0901
+email: avtar9823@gmail.com
+"""
+
+
 import os
 import bluetooth
 import time
